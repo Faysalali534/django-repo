@@ -40,3 +40,6 @@ function scrollWaypointInit(items, trigger) {
 }
 
 // BOOTSTRAP SELECT
+$(function() {
+    $("#mainSearchHomeType").selectpicker();
+});
